@@ -1,1 +1,0 @@
-import{bg as r}from"./index.eed59c8a.js";function g(e){return r({url:"/config/getServiceAgree",method:"get",params:e})}function i(e){return r({url:"/config/updateServiceAgree",method:"post",data:e})}export{g,i as u};

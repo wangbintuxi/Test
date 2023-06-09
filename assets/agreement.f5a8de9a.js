@@ -1,0 +1,1 @@
+import{bg as r}from"./index.f356dcab.js";function g(e){return r({url:"/config/getServiceAgree",method:"get",params:e})}function i(e){return r({url:"/config/updateServiceAgree",method:"post",data:e})}export{g,i as u};
