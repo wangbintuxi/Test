@@ -1,1 +1,0 @@
-import{_ as c,o as n,c as o,i as s,x as t,b4 as _}from"./index.bde4a40f.js";const a={},r=t(" \u8868\u5355\u6784\u5EFA ");function i(d,l){const e=_;return n(),o("div",null,[r,s(e,{"icon-class":"build"})])}var u=c(a,[["render",i]]);export{u as default};
