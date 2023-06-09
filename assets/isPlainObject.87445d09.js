@@ -1,1 +1,0 @@
-import{a_ as a,a$ as c,b0 as n}from"./index.b2a8007e.js";var i="[object Object]",s=Function.prototype,b=Object.prototype,e=s.toString,p=b.hasOwnProperty,f=e.call(Object);function j(r){if(!a(r)||c(r)!=i)return!1;var o=n(r);if(o===null)return!0;var t=p.call(o,"constructor")&&o.constructor;return typeof t=="function"&&t instanceof t&&e.call(t)==f}export{j as i};
